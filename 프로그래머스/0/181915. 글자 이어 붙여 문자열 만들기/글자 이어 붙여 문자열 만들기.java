@@ -6,7 +6,6 @@ class Solution {
             answer += my_string.charAt(index_list[i]);
         }
         
-        
         return answer;
     }
 }
