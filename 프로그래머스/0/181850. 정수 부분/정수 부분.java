@@ -1,7 +1,6 @@
 class Solution {
     public int solution(double flo) {
-        int answer = ((int) flo) / 1;
-        
+        int answer = (int) flo ;
         
         return answer;
     }
